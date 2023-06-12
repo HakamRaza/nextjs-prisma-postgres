@@ -12,12 +12,6 @@ datasource db {
 
 
 // ** Prisma Model **
-// 
-// Run `npx prisma migrate dev` or `npx prisma db push` to  keep your 
-// database schema in sync with your Prisma schema. The commands will
-// also regenerate Prisma Client (no need to run `npx prisma generate`).
-// Check status migration by `npx prisma migrate status`
-//
 
 model Post {
     id        Int      @id @default(autoincrement())

@@ -9,4 +9,3 @@ This is the starter project for the fullstack tutorial with Next.js and Prisma. 
 * `npx prisma generate` - regenerate Prisma Client
 * `npx prisma migrate status` - check DB migration status with schema
 * `npx prisma studio` - open Prisma studio DB GUI
-
